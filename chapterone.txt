@@ -1,2 +1,3 @@
 Test line for new file
 Second line for new file
+This is the best line
